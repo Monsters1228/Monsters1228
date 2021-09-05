@@ -5,5 +5,3 @@
 - 📫 How to reach me: [My Blog](http://monsters1228.cc/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Monsters1228&show_icons=true&theme=radical" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsters1228&show_icons=true&theme=radical)
