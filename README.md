@@ -4,6 +4,6 @@
 
 - 🔭 I `m a university student
 - 🌱 I’m currently learning TypeScript in Vue3 and Java Web  
-- 📫 How to reach me: [My Blog](http://monsters1228.cc/)
+- 📫 How to reach me: [My Blog](http://blog.monsters1228.cc/)
 
 
